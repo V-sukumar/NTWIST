@@ -4,8 +4,6 @@
 
 https://ntwist-theta.vercel.app/
 
-# What we worked On
-
 -Landing Page
 
 ![Screenshot 2023-11-07 021105](https://github.com/V-sukumar/NTWIST/assets/115460777/0345f243-a28a-4d1b-a901-f6698568432f)
